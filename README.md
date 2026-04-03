@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Divyesh A
 
-<!--
-**Divyesh2286/Divyesh2286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 Artificial Intelligence & Machine Learning Student
+🤖 Passionate about AI, Deep Learning & Data Science
+💡 Building intelligent solutions for real-world problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills
+
+* Python
+* Machine Learning
+* Deep Learning
+* TensorFlow & PyTorch
+* Data Analysis (Pandas, NumPy, Matplotlib)
+* MATLAB
+
+---
+
+## 💼 Projects
+
+🔹 Machine Learning Classification Models
+🔹 Deep Learning (CNN - Image Recognition)
+🔹 Data Analysis & Visualization Projects
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Divyesh2286\&show_icons=true)
+
+---
+
+## 📫 Contact Me
+
+📧 [divyeshanandan187@gmail.com](mailto:divyeshanandan187@gmail.com)
+
+---
+
+## 🌐 Portfolio
+
+👉 https://portfolio-divyesh.vercel.app
+
+---
+
+⭐ Always learning, always building!
